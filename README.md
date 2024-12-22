@@ -1,1 +1,1 @@
-# odin_recipes
+This is a project in which I will endeavour to create a simple website using only HTML to display a few different recipes.
